@@ -14,7 +14,7 @@ Covid classification using different models
 
 ### Cough: [Data Preperation](https://www.kaggle.com/pattanafridahmed/cough-coswara) & [Model-4](https://colab.research.google.com/drive/1heoMM8XCGQS0HwnC6ZeqjNnU08l6WiBD)
 
-### Vaccination Forecast(Time-Series): [Model-5](https://www.kaggle.com/pattanafridahmed/timeseries-analysis-of-vaccinations)
+### Vaccination Forecast: [Model-5](https://www.kaggle.com/pattanafridahmed/timeseries-analysis-of-vaccinations)
 
 ### Scores:
 ![image](https://user-images.githubusercontent.com/68124256/129453271-97d981cf-836b-4df6-9cb8-9c25b64f0c8c.png)
