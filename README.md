@@ -1,12 +1,11 @@
 # medicAI
 Covid classification using different models 
 
-### PPT --> 
-https://docs.google.com/presentation/d/1WjaSQanS6ejm_Vh1WCvU-DSOeG7dNhiwQEfRuRi922U/edit#slide=id.ge8092dc631_0_5
-
-### UI -->
+## INTERFACE
 ![image](https://user-images.githubusercontent.com/68124256/129452868-62026d1c-f6f0-4438-908f-dfbfa4e0cc5c.png)
 
+### PPT --> 
+https://docs.google.com/presentation/d/1WjaSQanS6ejm_Vh1WCvU-DSOeG7dNhiwQEfRuRi922U/edit#slide=id.ge8092dc631_0_
 
 ### Brain: 
 https://www.kaggle.com/prabhu2599/notebook97eface6e5##-Model
