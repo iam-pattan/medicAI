@@ -25,4 +25,4 @@ Covid classification using different models
 [Model-5](https://www.kaggle.com/pattanafridahmed/timeseries-analysis-of-vaccinations)
 
 ## Scores:
-![image](https://user-images.githubusercontent.com/68124256/129453271-97d981cf-836b-4df6-9cb8-9c25b64f0c8c.png) {:width=40px height=400px}
+![image](https://user-images.githubusercontent.com/68124256/129453271-97d981cf-836b-4df6-9cb8-9c25b64f0c8c.png)
