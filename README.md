@@ -8,9 +8,9 @@ Covid classification using different models
 
 ### Brain: [Model-1](https://www.kaggle.com/prabhu2599/notebook97eface6e5##-Model)
 
-### LR with EfficieNet-B7 (Lung): [Model-2(i)](https://www.kaggle.com/prabhu2599/covid-ps-98)
+### LR with EfficieNet-B7 (Lung): [Model-2](https://www.kaggle.com/prabhu2599/covid-ps-98)
 
-### Kmeans(Lung): [Model-2(ii)](https://www.kaggle.com/prabhu2599/covid-19-diagnosis-on-tpu-with-patients-clustering)
+### Kmeans(Lung): [Model-3](https://www.kaggle.com/prabhu2599/covid-19-diagnosis-on-tpu-with-patients-clustering)
 
 ### Cough: [Data Preperation](https://www.kaggle.com/pattanafridahmed/cough-coswara) & [Model-4](https://colab.research.google.com/drive/1heoMM8XCGQS0HwnC6ZeqjNnU08l6WiBD)
 
