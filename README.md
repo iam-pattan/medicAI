@@ -12,7 +12,7 @@ Covid classification using different models
 
 ### Kmeans(Lung): [Model-2(ii)](https://www.kaggle.com/prabhu2599/covid-19-diagnosis-on-tpu-with-patients-clustering)
 
-### Cough: [Data Preperation](https://www.kaggle.com/pattanafridahmed/cough-coswara) [Model-4](https://colab.research.google.com/drive/1heoMM8XCGQS0HwnC6ZeqjNnU08l6WiBD)
+### Cough: [Data Preperation](https://www.kaggle.com/pattanafridahmed/cough-coswara) & [Model-4](https://colab.research.google.com/drive/1heoMM8XCGQS0HwnC6ZeqjNnU08l6WiBD)
 
 ### Vaccination Forecast(Time-Series): [Model-5](https://www.kaggle.com/pattanafridahmed/timeseries-analysis-of-vaccinations)
 
