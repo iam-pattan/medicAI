@@ -24,3 +24,5 @@ Models: https://colab.research.google.com/drive/1heoMM8XCGQS0HwnC6ZeqjNnU08l6WiB
 ### Vaccination Forecast(Time-Series):
 https://www.kaggle.com/pattanafridahmed/timeseries-analysis-of-vaccinations
 
+## Scores:
+![image](https://user-images.githubusercontent.com/68124256/129453271-97d981cf-836b-4df6-9cb8-9c25b64f0c8c.png)
