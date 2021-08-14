@@ -12,4 +12,9 @@ https://www.kaggle.com/prabhu2599/covid-19-diagnosis-on-tpu-with-patients-cluste
 
 ### Cough: 
 Data Preperation: https://www.kaggle.com/pattanafridahmed/cough-coswara
+
 Models: https://colab.research.google.com/drive/1heoMM8XCGQS0HwnC6ZeqjNnU08l6WiBD
+
+### Vaccination Forecast(Time-Series):
+https://www.kaggle.com/pattanafridahmed/timeseries-analysis-of-vaccinations
+
