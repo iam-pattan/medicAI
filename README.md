@@ -4,7 +4,7 @@ Covid classification using different models
 ## INTERFACE
 | | | |
 |:-------------------------:|:-------------------------:|:-------------------------:|
-|<img width="1604" alt="screen shot 2017-08-07 at 12 18 15 pm" src="https://user-images.githubusercontent.com/68124256/130053029-12f56b08-edeb-44a6-a19a-61409a53f40b.jpg">  blah |  <img width="1604" alt="screen shot 2017-08-07 at 12 18 15 pm" src="https://user-images.githubusercontent.com/68124256/130052646-c02f6072-fb3f-4749-ba36-b252287631e6.jpg">|<img width="1604" alt="screen shot 2017-08-07 at 12 18 15 pm" src="https://user-images.githubusercontent.com/68124256/130052666-547b784d-655e-4ac6-871f-bcf9127b2cf3.jpg">|
+|<img width="1604" alt="screen shot 2017-08-07 at 12 18 15 pm" src="https://user-images.githubusercontent.com/68124256/130053029-12f56b08-edeb-44a6-a19a-61409a53f40b.jpg">  |  <img width="1604" alt="screen shot 2017-08-07 at 12 18 15 pm" src="https://user-images.githubusercontent.com/68124256/130052646-c02f6072-fb3f-4749-ba36-b252287631e6.jpg">|<img width="1604" alt="screen shot 2017-08-07 at 12 18 15 pm" src="https://user-images.githubusercontent.com/68124256/130052666-547b784d-655e-4ac6-871f-bcf9127b2cf3.jpg">|
 |<img width="1604" alt="screen shot 2017-08-07 at 12 18 15 pm" src="https://user-images.githubusercontent.com/68124256/130052698-84c24edf-a525-4a84-8abb-dbf7f0efc567.jpg">  blah |  <img width="1604" alt="screen shot 2017-08-07 at 12 18 15 pm" src="https://user-images.githubusercontent.com/68124256/130052725-0336a3c6-f38e-400c-8fab-107b845eb051.jpg">|<img width="1604" alt="screen shot 2017-08-07 at 12 18 15 pm" src="https://user-images.githubusercontent.com/68124256/130052745-36492fbb-789c-4098-be5b-db3de61e6a9b.jpg">|
 
 
